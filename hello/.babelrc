@@ -1,0 +1,7 @@
+/*
+  babel 的設定檔
+*/
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": ["@babel/plugin-proposal-class-properties"]
+}
